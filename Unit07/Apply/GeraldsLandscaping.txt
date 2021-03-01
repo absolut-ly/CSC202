@@ -1,0 +1,5 @@
+102, Dominic, 230 Hickory, 1100
+104, Perez, 670 Elm, 1400
+110, Zak, 169 Hickory, 500
+112, Andrews, 299 Elm, 1700
+116, Mitchell, 389 Oak, 1500

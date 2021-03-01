@@ -1,0 +1,9 @@
+101, Amanda, Carter, 11, Beginning Swimming
+103, Brian, Morrison, 7, Beginning Karate
+105, Justin, Newburg, 10, Rollerblading
+106, Marlene, Kennedy, 9, Beginning Swimming
+106, Marlene, Kennedy, 9, Beginning Tennis
+109, Eli, Thomas, 7, Beginning Karate
+109, Eli, Thomas, 10, Rollerblading
+109, Eli, Thomas, 10, Beginning Tennis
+110, Anna, Cravitz, 8, Beginning Swimming

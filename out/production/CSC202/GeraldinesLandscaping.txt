@@ -1,0 +1,4 @@
+101, Edwards, 23 Elm, 400
+105, Franklin, 67 Oak, 1000
+109, Sanchez, 139 Maple, 500
+111, Packer, 288 Elm, 700
