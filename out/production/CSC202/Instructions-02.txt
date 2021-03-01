@@ -1,4 +1,0 @@
-Geraldine's Landscaping Service and Gerard's Lawn Maintenance are merging their businesses
-and want to merge their customer files. Each file contains a customer number, last name, address,
-and property area in square feet, and each file is in customer number order. Design the logic for a
-program that merges the two files into one file containing all customers. Assume there are no identical customer numbers.
