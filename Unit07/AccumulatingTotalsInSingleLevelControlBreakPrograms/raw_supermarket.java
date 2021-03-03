@@ -7,10 +7,8 @@
 import java.util.Scanner;
 
 
-public class SuperMarket
-{
-    public static void main(String args[])
-    {
+public class SuperMarket{
+    public static void main(String args[] {
         // Declare variables.
         final String HEAD1 = "WEEKLY HOURS WORKED";
         final String DAY_FOOTER = "          Day Total ";  // Leading spaces are intentional.
