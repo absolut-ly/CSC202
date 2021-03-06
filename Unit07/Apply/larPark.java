@@ -1,7 +1,13 @@
 package Unit07.Apply;
 
 /*
-
+larPark.java.java
+This app opens 2 local files, both containing formatted lists, with the intent to merge the two lists, 
+sort them, and return the list while truncating the exact contents to limit the number of times 
+the identifying information is presented for each "student".
+Input requires two csv-formatted files in directory: LPDSummer.txt and LPDWinter.txt.
+Written by Sam Castle, CSC202
+For Cengage/MindTap Unit07 Exercises 3
 */
 
 import java.util.*;
