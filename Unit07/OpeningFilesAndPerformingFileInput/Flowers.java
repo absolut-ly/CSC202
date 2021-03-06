@@ -1,4 +1,4 @@
-
+package Unit07.OpeningFilesAndPerformingFileInput;
 
 // Flowers.java - This program reads names of flowers and whether they are grown in shade or sun from an input 
 // file and prints the information to the user's screen. 

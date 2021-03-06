@@ -1,3 +1,5 @@
+package Unit07.Apply;
+
 /*
 geraldsLandscaping.java
 This app opens 2 local files, both containing formatted lists, with the intent to merge the two lists.
