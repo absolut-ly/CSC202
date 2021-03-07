@@ -1,0 +1,11 @@
+43, Sun Prarie, ABC, 134, 30
+44, Edgerton, Acme, 145, 25
+45, Edgerton, Acme, 145, 15
+46, Sun Prarie, ABC, 154, 10
+47, Edgerton, Reyco, 154, 20
+48, Edgerton, Acme, 154, 5
+49, Sun Prarie, ABC, 154, 2
+50, Madison, Widgets, 163, 40
+51, Edgerton, Acme, 265, 30
+52, Edgerton, Donalds, 288, 20
+53, Madison, Widgets, 288, 5

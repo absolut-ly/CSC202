@@ -1,0 +1,11 @@
+111, Smith, John, 23 Washington, 10.00
+134, Jones, David, 88 Paulina, 12.50
+145, Jessup, Kimberly, 22 East, 20.00
+154, Morgan, Julie, 77 Towne, 15.65
+163, Norbert, Catherine, 33 Greene, 23.00
+183, Arbor, Thomas, 55 Harrison, 12.00
+201, Black, Michael, 44 Robard, 19.50
+232, Hernandez, Maria, 398 Third, 15.00
+265, Gonzales, Roberto, 3865 Towne, 19.00
+288, Patterson, Walter, 98 Paulina, 20.00
+312, White, Janice, 987 Lincoln, 23.00

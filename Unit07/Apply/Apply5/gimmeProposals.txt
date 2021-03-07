@@ -1,0 +1,4 @@
+1003, Young, 28 Oceanside, 5/1/2017, 20000
+1004, Quincy, 34 Leeward, 7/5/2017, 15000
+1005, Huang, 190 Jib, 8/2/2017, 16000
+1009, Kennedy, 210 Portside, 6/15/2018, 10000

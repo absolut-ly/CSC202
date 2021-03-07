@@ -1,4 +1,4 @@
-package Apply;
+package Apply.Apply3;
 
 /*
 larPark.java.java
@@ -12,13 +12,15 @@ For Cengage/MindTap Unit07 Exercises 3
 import java.util.*;
 import java.io.*;
 
-public class larPark2 {
+public class larPark {
     public static void main(String[] args) throws Exception {
+        //open files
         BufferedReader summer = new BufferedReader(new FileReader("Unit07/Apply/LPDSummer.txt"));
         BufferedReader winter = new BufferedReader(new FileReader("Unit07/Apply/LPDWinter.txt"));
         ArrayList<String> list = new ArrayList<>();
-        String line;
 
+        //read from files into list
+        String line;
         while ((line=summer.readLine())!=null) {
             list.add(line);
         }
@@ -30,20 +32,34 @@ public class larPark2 {
 
         Collections.sort(list);
 
-        int idCheck = 0;
-        int courses = 1;
+        int arrayCount = 0;
+        int courseCount = 1;
+        int[] courses = new int[list.size()]; //parallel array to keep number of courses
+        ArrayList<String> studentAL = new ArrayList<>(); //list for just student info
+
         for (String s: list) {
-            StringBuilder student;
             String[] parse = s.split(",");
-            if (parse[0].equals(idCheck)) {
-                courses++;
+            String studentInfo = parse[0] + "," + parse[1] + parse[2] + ",";
+
+            if (studentAL.isEmpty()) {
+                studentAL.add(studentInfo); //for first add
+            }
+            else if (studentAL.contains(studentInfo)) {
+                courseCount++; // if student is already added, increase courses count by one
             }
             else {
-                System.out.println(parse[0] + parse[1] + parse[2] + parse[3] + "# of courses: " + courses);
+                courseCount = 1;
+                studentAL.add(studentInfo); //add new student
+                arrayCount++; //increment array element
             }
+            courses[arrayCount] = courseCount; //update on each pass to ensure correct count throughout
+        }
+
+        //print all
+        for (int i = 0; i < studentAL.size(); i++) {
+            System.out.println(studentAL.get(i) + " Total number of course: " + courses[i]);
         }
 
         System.exit(0);
     } //end main
-
 } //end class larPark

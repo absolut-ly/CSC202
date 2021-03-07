@@ -1,0 +1,12 @@
+249, Manicure, 25.00
+285, Pedicure, 35.00
+285, Haircut, 40.00
+289, Perm, 100.00
+312, Haircut, 40.00
+312, Pedicure, 35.00
+345, Manicure, 25.00
+345, Pedicure, 35.00
+345, Hot Wax, 50.00
+345, Haircut, 40.00
+346, Manicure, 25.00
+388, Haircut, 40.00

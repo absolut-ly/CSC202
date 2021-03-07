@@ -1,0 +1,5 @@
+1004, Quincy, 34 Leeward, 4/12/2004, 10000
+1007, Jerome, 19 Spinnaker, 5/18/2004, 12500
+1009, Kennedy, 210 Portside, 6/15/2008, 15000
+1020, Harrison, 34 Keel, 8/1/2012, 3500
+1021, Gardner, 333 Waterway, 5/3/2015, 14000

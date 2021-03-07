@@ -1,0 +1,6 @@
+23, Sun Prarie, ABC, 134, 30
+24, Edgerton, Acme, 145, 25
+25, Sun Prarie, ABC, 154, 10
+26, Madison, Widgets, 163, 40
+27, Edgerton, Acme, 265, 30
+28, Edgerton, Donalds, 288, 20
