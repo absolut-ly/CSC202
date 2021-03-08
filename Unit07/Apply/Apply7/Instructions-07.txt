@@ -1,6 +1,8 @@
 The Timely Talent Temporary Help Agency maintains an employee master file that contains
 an employee ID number, last name, first name, address, and hourly rate for each temporary worker.
-The file has been sorted in employee ID number order. Each week, a transaction file is created with
+The file has been sorted in employee ID number order.
+
+Each week, a transaction file is created with
 a job number, address, customer name, employee ID, and hours worked for every job filled by Timely Talent workers.
 The transaction file is also sorted in employee ID order.
 
