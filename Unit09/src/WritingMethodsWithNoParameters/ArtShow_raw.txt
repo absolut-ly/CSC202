@@ -1,0 +1,34 @@
+// ArtShow.java - This program determines if an art show attendee gets a 5% discount
+// for preregistering.
+// Input:  Interactive.
+// Output:  A statement telling the user if they get a discount or no discount.
+
+import java.util.Scanner;
+
+public class ArtShow
+{
+	public static void main(String args[])
+	{
+		Scanner s = new Scanner(System.in);
+		String registerString;
+
+		System.out.println("Did you preregister? Enter Y or N: ");
+
+		registerString  = s.nextLine();
+
+		// Test input here. If Y, call discount(), else call noDiscount().
+
+
+		System.exit(0);
+
+	} // End of main() method.
+
+
+	// Write discount method here.
+
+
+
+	// Write noDiscount method here.
+
+
+} // End of ArtShow class.
