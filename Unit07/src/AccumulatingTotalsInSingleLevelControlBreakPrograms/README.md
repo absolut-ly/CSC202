@@ -1,13 +1,13 @@
-#Summary
+# Summary
 In this lab, you will use what you have learned about accumulating totals in a single-level control break program to complete a Java program.
 The program should produce a report for a supermarket manager to help her keep track of the hours worked by her part-time employees.
 The report should include the day of the week and the total hours worked by all employees each day.
 
-##Instructions  
+## Instructions  
 
-1) Study the prewritten code to understand what has already been done.  
+1. Study the prewritten code to understand what has already been done.  
 2) Write the control break code, including the code for the dayChange() method, in the main() method.  
-3) Execute this program using the following input values:  
+3. Execute this program using the following input values:  
    ```
    Monday – 6 hours (employee 1), 3 hours (employee 2), 4 hours (employee 3)
    Tuesday – 4 hours (employee 1), 2 hours (employee 2)

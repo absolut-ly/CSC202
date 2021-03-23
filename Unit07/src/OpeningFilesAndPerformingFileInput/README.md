@@ -1,8 +1,8 @@
-#Summary
+# Summary
 In this lab, you will open the file, flowers.dat, and read input from that file in a pre written Java program.
 The program should read and print the names of flowers and whether they are grown in shade or sun.
 
-##Instructions
+## Instructions
 1) Make sure the source code file named Flowers.java is open.
 2) Declare the variables you will need.
 3) Write the Java statements that will open the input file, flowers.dat, for reading.
