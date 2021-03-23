@@ -4,12 +4,17 @@ Files from Cengage / MindTap assignments (Exclusively Java).
 ***
 
 ### Unit 07:
-* [Opening Files and Performing File Input in Java](Unit07/OpeningFilesAndPerformingFileInput)  
-* [Accumulating Totals in Single-Level Control Break Programs in Java](Unit07/AccumulatingTotalsInSingleLevelControlBreakPrograms)  
-* [Apply 1-7](Unit07/Apply)  
+* [Opening Files and Performing File Input in Java](Unit07/src/OpeningFilesAndPerformingFileInput)  
+* [Accumulating Totals in Single-Level Control Break Programs in Java](Unit07/src/AccumulatingTotalsInSingleLevelControlBreakPrograms)  
+* [Apply 1-7](Unit07/src/Apply)  
 
 ### Unit 08:  
-* [Swapping Values in Java](Unit08/SwappingValues)  
-* [Using A Bubble Sort in Java](Unit08/UsingABubbleSort)  
-* [Using Multi-Dimensional Arrays](Unit08/UsingMultidimensionalArrays)  
+* [Swapping Values in Java](Unit08/src/SwappingValues)  
+* [Using A Bubble Sort in Java](Unit08/src/UsingABubbleSort)  
+* [Using Multi-Dimensional Arrays](Unit08/src/UsingMultidimensionalArrays)  
 
+### Unit 09:  
+* [Writing Methods with No Parameters](Unit09/src/WritingMethodsWithNoParameters)
+* [Writing Methods that Require a Single Parameter](Unit09/src/WritingMethodsThatRequireASingleParameter)
+* [Writing Methods that Require Multiple Parameters](Unit09/src/WritingMethodsThatRequireMultipleParameters)
+* [Writing Methods that Return a Value](Unit09/src/WritingMethodsThatReturnAValue)
