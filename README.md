@@ -18,3 +18,9 @@ Files from Cengage / MindTap assignments (Exclusively Java).
 * [Writing Methods that Require a Single Parameter](Unit09/src/WritingMethodsThatRequireASingleParameter)
 * [Writing Methods that Require Multiple Parameters](Unit09/src/WritingMethodsThatRequireMultipleParameters)
 * [Writing Methods that Return a Value](Unit09/src/WritingMethodsThatReturnAValue)
+* [Passing Arrays to Methods](Unit09/src/PassingArraysToMethods)
+* [Overloading Methods in Java](Unit09/src/OverloadingMethodsInJava)
+* [Using Java Built-in Methods](Unit09/src/UsingJavaBuiltInMethods)  
+
+### Unit 10:  
+* TBD (~4/5/21)
