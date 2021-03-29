@@ -12,23 +12,19 @@ public class ChangeCase {
         String result;
 
         System.out.println("Enter a string or done when you want to quit.");
-
         sample  = s.nextLine();
 
         while(sample.compareTo("done") != 0) {
             // Call () method here and print the result.
-
+            result = sample.toLowerCase();
             System.out.println("Lowercase: " + result);
             // Call () method here and print the result.
-
+            result = sample.toUpperCase();
             System.out.println("Uppercase: " + result);
             System.out.println("Enter a string or done when you want to quit.");
             sample  = s.nextLine();
         }
 
         System.exit(0);
-
     } // End of main() method.
-
-
 } // End of ChangeCase class.

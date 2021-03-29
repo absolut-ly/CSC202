@@ -13,21 +13,31 @@ public class Reverse {
         int x;
 
         // Print contents of array
-
+        System.out.println("Original contents of array: ");
+        for (int i : numbers) {
+            System.out.println(i);
+        }
 
         // Call reverseArray method here
-
+        numbers = reverseArray(numbers);
 
         // Print contents of reversed array
-
+        System.out.println("Reversed contents of array: ");
+        for (int i : numbers) {
+            System.out.println(i);
+        }
 
         System.exit(0);
-
     } // End of main() method.
 
-
     // Write reverseArray method here.
-
+    public static int[] reverseArray(int[] num) {
+        int numLen = num.length;
+        int tempNum[] = new int[numLen];
+        for (int i = 0; i < numLen; i++){
+            tempNum[(numLen-1) - i] = num[i];
+        }
+        return tempNum;
+    }
 
 } // End of Reverse class.
-

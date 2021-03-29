@@ -6,7 +6,7 @@ package WritingMethodsThatRequireASingleParameter;
 
 import java.util.Scanner;
 
-public class SumAndProduct{
+public class SumAndProduct {
     public static void main(String args[]) {
        Scanner s = new Scanner(System.in);
        int number;              	
