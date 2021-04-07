@@ -31,13 +31,11 @@ class Rectangle
 
     // Write the calculatePerimeter() and
     // calculateArea() methods here.
-    public Double calculatePerimeter(Double len, Double wid) {
-        Double perimeter = 2*len + 2*wid;
-        return perimeter;
+    public Double calculatePerimeter() {
+        return 2*this.length + 2*this.width;
     }
 
-    public Double calculateArea(Double len, Double wid) {
-        Double area = len * wid;
-        return area;
+    public Double calculateArea() {
+        return this.length * this.width;
     }
 }

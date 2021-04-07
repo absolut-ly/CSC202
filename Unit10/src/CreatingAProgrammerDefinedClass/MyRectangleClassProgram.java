@@ -15,8 +15,8 @@ public class MyRectangleClassProgram
         rectangle1.setWidth(5.0);
 
         // Print the area and perimeter of rectangle1 here.
-        System.out.println("Rectangle 1's perimeter is: " + rectangle1.calculatePerimeter(rectangle1.getLength(), rectangle1.getWidth()));
-        System.out.println("Rectangle 1's area is: " + rectangle1.calculateArea(rectangle1.getLength(), rectangle1.getWidth()));
+        System.out.println("Rectangle 1's perimeter is: " + rectangle1.calculatePerimeter());
+        System.out.println("Rectangle 1's area is: " + rectangle1.calculateArea());
 
         // Set the length of rectangle2 to 7.0 here.
         rectangle2.setLength(7.0);
@@ -24,8 +24,8 @@ public class MyRectangleClassProgram
         rectangle2.setWidth(3.0);
 
         // Print the area and perimeter of rectangle2 here.
-        System.out.println("Rectangle 2's perimeter is: " + rectangle2.calculatePerimeter(rectangle2.getLength(), rectangle2.getWidth()));
-        System.out.println("Rectangle 2's area is: " + rectangle2.calculateArea(rectangle2.getLength(), rectangle2.getWidth()));
+        System.out.println("Rectangle 2's perimeter is: " + rectangle2.calculatePerimeter());
+        System.out.println("Rectangle 2's area is: " + rectangle2.calculateArea());
 
         System.exit(0);
     }
