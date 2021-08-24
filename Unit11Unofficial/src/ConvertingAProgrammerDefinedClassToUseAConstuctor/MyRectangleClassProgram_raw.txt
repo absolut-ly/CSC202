@@ -1,0 +1,10 @@
+// This program uses the programmer-defined Rectangle class.
+
+public class MyRectangleClassProgram
+{
+   public static void main(String args[])
+   {
+
+      System.exit(0);
+   }
+}
